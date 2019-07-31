@@ -65,7 +65,7 @@
     &::after {
         content: '';
         position: absolute;
-        background-color: color(primary, 1);
+        background-color: color(secondary, 1);
         transition: transform .25s ease-out;
     }
 
